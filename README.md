@@ -743,6 +743,7 @@ Code Formatters
 
 *Libraries for generating and working with logs.*
 
+* [loguru](https://github.com/Delgan/loguru) - Loguru is a library which aims to bring enjoyable logging in Python.
 * [Eliot](https://github.com/ScatterHQ/eliot) - Logging for complex & distributed systems.
 * [logbook](http://logbook.readthedocs.io/en/stable/) - Logging replacement for Python.
 * [logging](https://docs.python.org/3/library/logging.html) - (Python standard library) Logging facility for Python.
